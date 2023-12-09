@@ -1,0 +1,31 @@
+/* Navbar.css */
+.navbar {
+  width: 100%;
+  background-color: #333; 
+  color: white; 
+  padding: 10px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem; 
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links a {
+  color: white; /* Set the color for the navigation links */
+  text-decoration: none;
+  font-size: 1rem; /* Set the font size for the navigation links */
+}
+
+.nav-links a:hover {
+  text-decoration: underline; /* Underline on hover or adjust as needed */
+}

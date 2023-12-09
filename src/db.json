@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "firstName": "pinal",
+      "lastName": "jain",
+      "email": "pinaljain1@gmail.com",
+      "mobileNo": "09892628518",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "id": 1
+    },
+    {
+      "firstName": "pinal",
+      "lastName": "jain",
+      "email": "pinaljain1@gmail.com",
+      "mobileNo": "09892628518",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "id": 2
+    },
+    {
+      "firstName": "pinal",
+      "lastName": "shah",
+      "email": "pinals1@gmail.com",
+      "mobileNo": "9892345672",
+      "password": "pinals123@",
+      "confirmPassword": "pinals123@",
+      "id": 3
+    }
+  ],
+  "admin": [
+    {}
+  ],
+  "signup": [
+    {}
+  ]
+}
